@@ -25,7 +25,7 @@ You can get the executable in any of the following ways:
 
 - Install from brew
     ```
-    brew tap laishulu/macism
+    brew tap laishulu/macism https://github.com/laishulu/macism
     brew install macism
     ```
 
